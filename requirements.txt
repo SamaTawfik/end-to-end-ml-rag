@@ -3,3 +3,8 @@ numpy
 seaborn
 scikit-learn
 -e .
+langchain
+langchain-community
+langchain-openai
+chromadb
+python-dotenv
